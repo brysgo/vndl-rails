@@ -1,0 +1,6 @@
+Bundle 'tpope/vim-rails'
+Bundle 'tpope/vim-endwise'
+Bundle 'ecomba/vim-ruby-refactoring'
+Bundle 'nelstrom/vim-textobj-rubyblock'
+Bundle 'brysgo/test_server'
+Bundle 'jgdavey/vim-blockle'
